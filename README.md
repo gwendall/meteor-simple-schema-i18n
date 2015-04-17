@@ -31,7 +31,6 @@ To do
 - [ ] Chinese
 - [ ] Croatian
 - [ ] Danish
-- [ ] Deutsch
 - [ ] Dutch
 - [x] English
 - [x] French
