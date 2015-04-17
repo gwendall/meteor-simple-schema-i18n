@@ -18,8 +18,8 @@ Package.onUse(function (api, where) {
     "client/lib.js"
   ], "client");
 
-  api.addFiles("package-tap.i18n");
   api.addFiles([
+    "package-tap.i18n",
     "i18n/en.i18n.json",
     "i18n/fr.i18n.json",
     "i18n/de.i18n.json"
