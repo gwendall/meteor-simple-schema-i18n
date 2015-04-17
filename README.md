@@ -20,3 +20,41 @@ Contribute
 ----------
 
 To contribute to the project, please fork the repo and submit a pull request after adding or modifying any language file (in the /i18n folder).
+
+To do
+-----
+
+- [] Amharic
+- [] Arabic
+- [] Bangla
+- [] Bulgarian
+- [] Chinese
+- [] Croatian
+- [] Danish
+- [] Deutsch
+- [] Dutch
+- [x] English
+- [x] French
+- [x] German
+- [] Greek
+- [] Hebrew
+- [] Hindi
+- [] Hungarian
+- [] Indonesian
+- [] Italian
+- [] Lithuanian
+- [] Malay
+- [] Japanese
+- [] Korean
+- [] Polish
+- [] Portuguese
+- [] Romanian
+- [] Russian
+- [] Spanish
+- [] Swahili
+- [] Swedish
+- [] Tamil
+- [] Thai
+- [] Turkish
+- [] Ukrainian
+- [] Vietnamese
