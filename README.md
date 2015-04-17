@@ -10,6 +10,12 @@ Installation
 meteor add gwendall:autoform-i18n
 ```
 
+Notes
+-----
+
+- This package translates error messages  
+- The localization is done through tap:i18n
+
 Contribute
 ----------
 
