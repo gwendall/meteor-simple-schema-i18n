@@ -22,6 +22,7 @@ Package.onUse(function (api, where) {
   api.addFiles([
     "i18n/en.i18n.json",
     "i18n/fr.i18n.json",
+    "i18n/de.i18n.json"
   ]);
 
 });
