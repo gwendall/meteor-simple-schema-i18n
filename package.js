@@ -14,7 +14,7 @@ Package.onUse(function (api, where) {
     "underscore@1.0.3"
   ]);
 
-  api.add_files([
+  api.addFiles([
     "client/lib.js"
   ], "client");
 
