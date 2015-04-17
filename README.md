@@ -24,37 +24,37 @@ To contribute to the project, please fork the repo and submit a pull request aft
 To do
 -----
 
-- [] Amharic
-- [] Arabic
-- [] Bangla
-- [] Bulgarian
-- [] Chinese
-- [] Croatian
-- [] Danish
-- [] Deutsch
-- [] Dutch
+- [ ] Amharic
+- [ ] Arabic
+- [ ] Bangla
+- [ ] Bulgarian
+- [ ] Chinese
+- [ ] Croatian
+- [ ] Danish
+- [ ] Deutsch
+- [ ] Dutch
 - [x] English
 - [x] French
 - [x] German
-- [] Greek
-- [] Hebrew
-- [] Hindi
-- [] Hungarian
-- [] Indonesian
-- [] Italian
-- [] Lithuanian
-- [] Malay
-- [] Japanese
-- [] Korean
-- [] Polish
-- [] Portuguese
-- [] Romanian
-- [] Russian
-- [] Spanish
-- [] Swahili
-- [] Swedish
-- [] Tamil
-- [] Thai
-- [] Turkish
-- [] Ukrainian
-- [] Vietnamese
+- [ ] Greek
+- [ ] Hebrew
+- [ ] Hindi
+- [ ] Hungarian
+- [ ] Indonesian
+- [ ] Italian
+- [ ] Lithuanian
+- [ ] Malay
+- [ ] Japanese
+- [ ] Korean
+- [ ] Polish
+- [ ] Portuguese
+- [ ] Romanian
+- [ ] Russian
+- [ ] Spanish
+- [ ] Swahili
+- [ ] Swedish
+- [ ] Tamil
+- [ ] Thai
+- [ ] Turkish
+- [ ] Ukrainian
+- [ ] Vietnamese
