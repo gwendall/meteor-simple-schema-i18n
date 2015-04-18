@@ -17,6 +17,7 @@ Package.onUse(function (api, where) {
   api.addFiles([
     "package-tap.i18n",
     "i18n/ar.i18n.json",
+    "i18n/zh_cn.i18n.json",
     "i18n/de.i18n.json",
     "i18n/en.i18n.json",
     "i18n/es.i18n.json",
