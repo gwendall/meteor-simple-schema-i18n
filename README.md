@@ -56,6 +56,6 @@ To do
 - [ ] Swedish
 - [ ] Tamil
 - [ ] Thai
-- [ ] Turkish
+- [x] Turkish
 - [ ] Ukrainian
 - [ ] Vietnamese
