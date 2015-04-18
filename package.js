@@ -1,7 +1,7 @@
 Package.describe({
     name: "gwendall:autoform-i18n",
     summary: "Internationalization for Autoform",
-    version: "0.1.2",
+    version: "0.1.3",
     git: "https://github.com/gwendall/meteor-autoform-i18n.git"
 });
 
