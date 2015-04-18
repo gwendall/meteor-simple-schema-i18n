@@ -10,4 +10,4 @@ Meteor.startup(function() {
     var messages = _.extend(_.clone(globalMessages), localMessages);
     SimpleSchema.messages(messages);
   });
-});
+}); 
