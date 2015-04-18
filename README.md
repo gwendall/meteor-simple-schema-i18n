@@ -1,7 +1,7 @@
 Meteor Autoform i18n
 ====================
 
-Intenationalization for Autoform
+Intenationalization for [aldeed:autoform](http://github.com/aldeed/meteor-autoform)
 
 Installation  
 ------------
