@@ -45,11 +45,12 @@ To do
 - [ ] Malay
 - [ ] Japanese
 - [ ] Korean
+- [ ] Persian
 - [ ] Polish
 - [ ] Portuguese
 - [ ] Romanian
 - [ ] Russian
-- [ ] Spanish
+- [x] Spanish
 - [ ] Swahili
 - [ ] Swedish
 - [ ] Tamil
