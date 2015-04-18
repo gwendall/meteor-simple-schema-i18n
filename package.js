@@ -1,8 +1,8 @@
 Package.describe({
-    name: "gwendall:autoform-i18n",
-    summary: "Internationalization for Autoform",
+    name: "gwendall:simple-schema-i18n",
+    summary: "Internationalization for SimpleSchema",
     version: "0.1.3",
-    git: "https://github.com/gwendall/meteor-autoform-i18n.git"
+    git: "https://github.com/gwendall/meteor-simple-schema-i18n.git"
 });
 
 Package.onUse(function (api, where) {

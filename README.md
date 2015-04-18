@@ -1,13 +1,13 @@
-Meteor Autoform i18n
-====================
+Meteor Simple-Schema i18n
+=========================
 
-Intenationalization for [aldeed:autoform](http://github.com/aldeed/meteor-autoform)
+Intenationalization for [aldeed:simple-schema](http://github.com/aldeed/meteor-simple-schema)
 
 Installation  
 ------------
 
 ``` sh
-meteor add gwendall:autoform-i18n
+meteor add gwendall:simple-schema-i18n
 ```
 
 Notes
