@@ -33,6 +33,7 @@ To do
 - [ ] Danish
 - [x] Dutch
 - [x] English
+- [x] Estonian
 - [x] French
 - [x] German
 - [ ] Greek
