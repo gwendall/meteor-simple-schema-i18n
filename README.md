@@ -25,7 +25,7 @@ To do
 -----
 
 - [ ] Amharic
-- [ ] Arabic
+- [x] Arabic
 - [ ] Bangla
 - [ ] Bulgarian
 - [ ] Chinese
