@@ -15,10 +15,6 @@ Package.onUse(function (api, where) {
   ]);
 
   api.addFiles([
-    "client/lib.js"
-  ], "client");
-
-  api.addFiles([
     "package-tap.i18n",
     "i18n/ar.i18n.json",
     "i18n/de.i18n.json",
@@ -26,7 +22,8 @@ Package.onUse(function (api, where) {
     "i18n/es.i18n.json",
     "i18n/et.i18n.json",
     "i18n/fr.i18n.json",
-    "i18n/nl.i18n.json"
+    "i18n/nl.i18n.json",
+    "shared/lib.js"
   ]);
 
 });
