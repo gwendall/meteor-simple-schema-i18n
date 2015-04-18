@@ -19,7 +19,7 @@ Notes
 Contribute
 ----------
 
-To contribute to the project, please fork the repo and submit a pull request after adding or modifying any language file (in the /i18n folder).
+To contribute to the project, please fork the repo and submit a pull request after adding or modifying any language file (in the /i18n folder).   The language code you should use to name your i18n.json file can be found in [this list](https://github.com/TAPevents/tap-i18n/blob/master/lib/plugin/etc/language_names.js).
 
 To do
 -----
@@ -28,7 +28,9 @@ To do
 - [x] Arabic
 - [ ] Bangla
 - [ ] Bulgarian
-- [ ] Chinese
+- [x] Chinese (China)
+- [ ] Chinese (HK)
+- [ ] Chinese (Taiwan)
 - [ ] Croatian
 - [ ] Danish
 - [x] Dutch
