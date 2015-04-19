@@ -3,7 +3,7 @@ if (Meteor.isClient) {
     var globalMessages = _.clone(SimpleSchema._globalMessages);
     Meteor.autorun(function() {
       var lang = TAPi18n.getLanguage();
-      var localMessages = TAPi18n.__("autoform.messages", { returnObjectTrees: true });
+      var localMessages = TAPi18n.__("simpleschema.messages", { returnObjectTrees: true });
       localMessages.regEx = _.map(localMessages.regEx, function(item) {
         if (item.exp) item.exp = eval(item.exp);
         return item;
@@ -12,8 +12,4 @@ if (Meteor.isClient) {
       SimpleSchema.messages(messages);
     });
   });
-}
-
-if (Meteor.isServer) {
-  // #TODO
 }

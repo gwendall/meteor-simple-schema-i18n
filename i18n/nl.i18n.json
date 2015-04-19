@@ -1,5 +1,5 @@
 {
-  "autoform": {
+  "simpleschema": {
     "messages": {
       "required": "[label] is vereist",
       "minString": "[label] moet minimaal [min] karakters bevatten",

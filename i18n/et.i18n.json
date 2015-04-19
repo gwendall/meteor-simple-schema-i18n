@@ -1,5 +1,5 @@
 {
-  "autoform": {
+  "simpleschema": {
     "messages": {
       "required": "[label] on kohustuslik",
       "minString": "[label] peab olema vähemalt [min] tähemärki",

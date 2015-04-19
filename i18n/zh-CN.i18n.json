@@ -1,5 +1,5 @@
 {
-  "autoform": {
+  "simpleschema": {
     "messages": {
       "required": "必须填写[label]",
       "minString": "[label]最短[min]字符长",

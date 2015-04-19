@@ -1,7 +1,7 @@
 Meteor Simple-Schema i18n
 =========================
 
-Intenationalization for [aldeed:simple-schema](http://github.com/aldeed/meteor-simple-schema)
+Internationalization for [aldeed:simple-schema](http://github.com/aldeed/meteor-simple-schema) error messages, powered by [tap:i18n](https://github.com/TAPevents/tap-i18n).
 
 Installation  
 ------------
@@ -10,16 +10,11 @@ Installation
 meteor add gwendall:simple-schema-i18n
 ```
 
-Notes
------
-
-- This package translates error messages  
-- The localization is done through tap:i18n
-
 Contribute
 ----------
 
-To contribute to the project, please fork the repo and submit a pull request after adding or modifying any language file (in the /i18n folder).   The language code you should use to name new i18n.json files can be found in [this list](https://github.com/TAPevents/tap-i18n/blob/master/lib/plugin/etc/language_names.js).
+Help us building a complete i18n solution by translating simple-schema. To do so, please fork the repo and submit a pull request after adding / modifying any language file (in the /i18n folder).  
+The language code you should use to name new i18n.json files can be found in [this list](https://github.com/TAPevents/tap-i18n/blob/master/lib/plugin/etc/language_names.js).
 
 To do
 -----

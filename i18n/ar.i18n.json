@@ -1,5 +1,5 @@
 {
-  "autoform": {
+  "simpleschema": {
     "messages": {
       "required": "[label] مطلوب",
       "minString": "[label] يجب أن يكون علي الأقل [min] حروف",
