@@ -19,13 +19,13 @@ The language code you should use to name new i18n.json files can be found in [th
 Credits
 -------
 
-[@laosb](laosb),
-[@serkandurusoy](serkandurusoy),
-[@rzmz](rzmz),
-[@mahmoudkm](mahmoudkm),
-[@xaiki](xaiki),
-[@Tim-W](Tim-W),
-[@DavidSichau](DavidSichau)
+[@laosb](/laosb),
+[@serkandurusoy](/serkandurusoy),
+[@rzmz](/rzmz),
+[@mahmoudkm](/mahmoudkm),
+[@xaiki](/xaiki),
+[@Tim-W](/Tim-W),
+[@DavidSichau](/DavidSichau)
 
 To do
 -----
