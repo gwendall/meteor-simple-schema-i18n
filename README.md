@@ -16,6 +16,11 @@ Contribute
 Help us building a complete i18n solution by translating simple-schema. To do so, please fork the repo and submit a pull request after adding / modifying any language file (in the /i18n folder).  
 The language code you should use to name new i18n.json files can be found in [this list](https://github.com/TAPevents/tap-i18n/blob/master/lib/plugin/etc/language_names.js).
 
+Credits
+-------
+
+@laosb, @serkandurusoy, @rzmz, @mahmoudkm, @xaiki, @Tim-W, @DavidSichau  
+
 To do
 -----
 
