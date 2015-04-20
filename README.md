@@ -21,6 +21,7 @@ The language code you should use to name new i18n.json files can be found in [th
 Credits
 -------
 
+[@achtan](http://github.com/achtan),
 [@laosb](http://github.com/laosb),
 [@serkandurusoy](http://github.com/serkandurusoy),
 [@rzmz](http://github.com/rzmz),
@@ -62,14 +63,14 @@ To do
 - [x] Dutch
 - [ ] Dutch (Belgium)
 - [x] English
-- [ ] English (Australia)
-- [ ] English (Canada)
-- [ ] English (UK)
+- [x] English (Australia)
+- [x] English (Canada)
+- [x] English (UK)
 - [ ] Esperanto
 - [x] Estonian
 - [ ] Faroese
 - [ ] Finnish
-- [ ] French (Belgium)
+- [x] French (Belgium)
 - [x] French (France)
 - [ ] Frisian
 - [ ] Fulah
