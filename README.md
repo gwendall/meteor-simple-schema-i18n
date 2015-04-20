@@ -131,7 +131,7 @@ To do
 - [ ] Serbian
 - [ ] Sindhi
 - [ ] Sinhala
-- [ ] Slovak
+- [x] Slovak
 - [ ] Slovenian
 - [ ] Somali
 - [ ] South Azerbaijani
