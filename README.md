@@ -3,7 +3,7 @@ Meteor Simple-Schema i18n
 
 Internationalization for [aldeed:simple-schema](http://github.com/aldeed/meteor-simple-schema) error messages, powered by [tap:i18n](https://github.com/TAPevents/tap-i18n).  
 
-UPDATE: To get reactively translated labels, placeholders and options with Autoform, use [gwendall:autoform-i18n](http://github.com/gwendall/meteor-autoform-i18n).
+UPDATE: To get reactively translated labels, placeholders and options in your autoforms, additionally use [gwendall:autoform-i18n](http://github.com/gwendall/meteor-autoform-i18n).
 
 Installation  
 ------------
