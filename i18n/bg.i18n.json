@@ -12,7 +12,7 @@
       "maxDate": "[label] не може да е по късно от [max]",
       "badDate": "[label] е невалидна дата",
       "minCount": "Трябва да изберете минимум [minCount] стойности",
-      "maxCount": "Трябва да са не повече от [maxCount] стойности",
+      "maxCount": "Трябва да изберете не повече от [maxCount] стойности",
       "noDecimal": "[label] трябва да е цяло число",
       "notAllowed": "[value] не е позволена стойност",
       "expectedString": "[label] трябва да е  низ",
