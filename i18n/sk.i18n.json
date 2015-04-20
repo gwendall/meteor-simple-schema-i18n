@@ -14,14 +14,14 @@
       "minCount": "Musíš definovať aspoň [minCount] hodnôt",
       "maxCount": "Môžeš definovať maximálne [maxCount] hodnôt",
       "noDecimal": "[label] musí byť celé číslo",
-      "notAllowed": "[value] nie je povoleńa hodnota",
+      "notAllowed": "[value] nie je povolená hodnota",
       "expectedString": "[label] musí byť slovo alebo veta",
       "expectedNumber": "[label] musí byť číslo",
       "expectedBoolean": "[label] musí byť boolean",
       "expectedArray": "[label] musí byť pole",
       "expectedObject": "[label] musí byť objekt",
       "expectedConstructor": "[label] musí byť typu [type]",
-      "keyNotInSchema": "[key] nie je povoleńa v schéme",
+      "keyNotInSchema": "[key] nie je povolená v schéme",
       "regEx": {
         "0": {
           "msg": "[label] nie je validný voči regulárnemu výrazu"
