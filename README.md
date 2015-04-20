@@ -3,7 +3,7 @@ Meteor Simple-Schema i18n
 
 Intenationalization for [aldeed:simple-schema](http://github.com/aldeed/meteor-simple-schema)
 
-Installation  
+Installation
 ------------
 
 ``` sh
@@ -13,7 +13,7 @@ meteor add gwendall:simple-schema-i18n
 Notes
 -----
 
-- This package translates error messages  
+- This package translates error messages
 - The localization is done through tap:i18n
 
 Contribute
@@ -39,7 +39,7 @@ To do
 - [ ] Belarusian
 - [ ] Bengali
 - [ ] Bosnian
-- [ ] Bulgarian
+- [x] Bulgarian
 - [ ] Burmese
 - [ ] Catalan
 - [ ] Catalan (Balear)
