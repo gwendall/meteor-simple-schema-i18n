@@ -118,7 +118,7 @@ To do
 - [ ] Persian
 - [ ] Persian (Afghanistan)
 - [ ] Polish
-- [ ] Portuguese (Brazil)
+- [x] Portuguese (Brazil)
 - [ ] Portuguese (Portugal)
 - [ ] Punjabi
 - [ ] Rohingya
