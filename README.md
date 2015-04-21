@@ -50,7 +50,7 @@ To do
 - [ ] Belarusian
 - [ ] Bengali
 - [ ] Bosnian
-- [ ] Bulgarian
+- [x] Bulgarian
 - [ ] Burmese
 - [ ] Catalan
 - [ ] Catalan (Balear)
