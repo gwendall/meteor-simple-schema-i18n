@@ -21,6 +21,9 @@ The language code you should use to name new i18n.json files can be found in [th
 Credits
 -------
 
+[@Findegil](http://github.com/Findegil),
+[@ThePanuto](http://github.com/ThePanuto),
+[@achtan](http://github.com/achtan),
 [@laosb](http://github.com/laosb),
 [@serkandurusoy](http://github.com/serkandurusoy),
 [@rzmz](http://github.com/rzmz),
@@ -47,7 +50,7 @@ To do
 - [ ] Belarusian
 - [ ] Bengali
 - [ ] Bosnian
-- [ ] Bulgarian
+- [x] Bulgarian
 - [ ] Burmese
 - [ ] Catalan
 - [ ] Catalan (Balear)
@@ -62,14 +65,14 @@ To do
 - [x] Dutch
 - [ ] Dutch (Belgium)
 - [x] English
-- [ ] English (Australia)
-- [ ] English (Canada)
-- [ ] English (UK)
+- [x] English (Australia)
+- [x] English (Canada)
+- [x] English (UK)
 - [ ] Esperanto
 - [x] Estonian
 - [ ] Faroese
 - [ ] Finnish
-- [ ] French (Belgium)
+- [x] French (Belgium)
 - [x] French (France)
 - [ ] Frisian
 - [ ] Fulah
@@ -117,7 +120,7 @@ To do
 - [ ] Persian
 - [ ] Persian (Afghanistan)
 - [ ] Polish
-- [ ] Portuguese (Brazil)
+- [x] Portuguese (Brazil)
 - [ ] Portuguese (Portugal)
 - [ ] Punjabi
 - [ ] Rohingya
@@ -131,7 +134,7 @@ To do
 - [ ] Serbian
 - [ ] Sindhi
 - [ ] Sinhala
-- [ ] Slovak
+- [x] Slovak
 - [ ] Slovenian
 - [ ] Somali
 - [ ] South Azerbaijani
