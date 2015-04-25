@@ -89,7 +89,7 @@ To do
 - [ ] Icelandic
 - [ ] Indonesian
 - [ ] Irish
-- [ ] Italian
+- [x] Italian
 - [ ] Japanese
 - [ ] Javanese
 - [ ] Kannada
