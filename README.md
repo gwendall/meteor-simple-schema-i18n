@@ -21,6 +21,7 @@ The language code you should use to name new i18n.json files can be found in [th
 Credits
 -------
 
+[@timbrandin](http://github.com/timbrandin),
 [@Adiel-Sharabi](http://github.com/Adiel-Sharabi),
 [@splendido](http://github.com/splendido),
 [@Findegil](http://github.com/Findegil),
@@ -150,7 +151,7 @@ To do
 - [ ] Spanish (Venezuela)
 - [ ] Sundanese
 - [ ] Swahili
-- [ ] Swedish
+- [x] Swedish
 - [ ] Swiss German
 - [ ] Tagalog
 - [ ] Tajik
