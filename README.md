@@ -34,6 +34,7 @@ Credits
 [@xaiki](http://github.com/xaiki),
 [@Tim-W](http://github.com/Tim-W),
 [@DavidSichau](http://github.com/DavidSichau)
+[@timbrandin](http://github.com/timbrandin)
 
 To do
 -----
