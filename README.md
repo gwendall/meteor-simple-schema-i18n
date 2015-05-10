@@ -128,7 +128,7 @@ To do
 - [ ] Punjabi
 - [ ] Rohingya
 - [ ] Romanian
-- [ ] Russian
+- [x] Russian
 - [ ] Rusyn
 - [ ] Sakha
 - [ ] Sanskrit
