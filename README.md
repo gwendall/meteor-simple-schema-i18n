@@ -21,6 +21,7 @@ The language code you should use to name new i18n.json files can be found in [th
 Credits
 -------
 
+[@coderany](http://github.com/coderany),
 [@timbrandin](http://github.com/timbrandin),
 [@Adiel-Sharabi](http://github.com/Adiel-Sharabi),
 [@splendido](http://github.com/splendido),
