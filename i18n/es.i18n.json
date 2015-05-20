@@ -10,7 +10,7 @@
       "maxNumberExclusive": "[label] tiene que ser mas chico que [max]",
       "minDate": "[label] tiene que ser antes de [min]",
       "maxDate": "[label] no puede ser despues de [max]",
-      "badDate": "[label] is not a valid date", // TODO
+      "badDate": "[label] no es una fecha válida",
       "minCount": "Tiene que especificar por lo menos [minCount] valores",
       "maxCount": "No puede especificar mas de [maxCount] valores",
       "noDecimal": "[label] tiene que ser un numero entero",
