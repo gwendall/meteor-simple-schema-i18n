@@ -1,14 +1,14 @@
 {
   "simpleschema": {
     "messages": {
-      "required": "[label] обязателено",
+      "required": "[label] обязательно",
       "minString": "[label] должно содержать минимум [min] букв",
       "maxString": "[label] не может превышать [max] букв",
       "minNumber": "[label] должно быть не меньше [min]",
       "maxNumber": "[label] не может превышать [max]",
       "minNumberExclusive": "[label] должно быть больше [min]",
       "maxNumberExclusive": "[label] должно быть меньше [max]",
-      "minDate": "[label] должно быть позже чем [min]",
+      "minDate": "[label] должно быть не раньше чем [min]",
       "maxDate": "[label] не может быть позже чем [max]",
       "badDate": "[label] не является корректной датой",
       "minCount": "Вы должны указать минимум [minCount] значений",
