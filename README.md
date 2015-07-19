@@ -21,6 +21,7 @@ The language code you should use to name new i18n.json files can be found in [th
 Credits
 -------
 
+[@daveeel](http://github.com/daveeel),
 [@nirleka](http://github.com/nirleka),
 [@uzumaxy](http://github.com/uzumaxy),
 [@coderany](http://github.com/coderany),
@@ -62,8 +63,8 @@ To do
 - [ ] Catalan (Balear)
 - [ ] Chinese
 - [x] Chinese (China)
-- [ ] Chinese (Hong Kong)
-- [ ] Chinese (Taiwan)
+- [x] Chinese (Hong Kong)
+- [x] Chinese (Taiwan)
 - [ ] Corsican
 - [ ] Croatian
 - [ ] Czech
