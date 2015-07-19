@@ -35,6 +35,7 @@ Package.onUse(function (api, where) {
     "i18n/sv.i18n.json",
     "i18n/tr.i18n.json",
     "i18n/zh-CN.i18n.json",
+    "i18n/hu.i18n.json",
     "shared/lib.js"
   ]);
 

@@ -34,7 +34,8 @@ Credits
 [@mahmoudkm](http://github.com/mahmoudkm),
 [@xaiki](http://github.com/xaiki),
 [@Tim-W](http://github.com/Tim-W),
-[@DavidSichau](http://github.com/DavidSichau)
+[@DavidSichau](http://github.com/DavidSichau),
+[@Szayet](http://github.com/Szayet)
 
 To do
 -----
@@ -89,7 +90,7 @@ To do
 - [ ] Hazaragi
 - [x] Hebrew
 - [ ] Hindi
-- [ ] Hungarian
+- [x] Hungarian
 - [ ] Icelandic
 - [ ] Indonesian
 - [ ] Irish
