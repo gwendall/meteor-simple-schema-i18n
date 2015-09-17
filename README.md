@@ -120,7 +120,7 @@ To do
 - [ ] Mongolian
 - [ ] Montenegrin
 - [ ] Nepali
-- [ ] Norwegian (Bokmål)
+- [x] Norwegian (Bokmål)
 - [ ] Norwegian (Nynorsk)
 - [ ] Ossetic
 - [ ] Pashto
