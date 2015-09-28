@@ -28,11 +28,11 @@
         },
         "1": {
           "exp": "SimpleSchema.RegEx.Email",
-          "msg": "[label] doit être une adresse e-mail valide"
+          "msg": "[label] doit être une adresse électronique valide"
         },
         "2": {
           "exp": "SimpleSchema.RegEx.WeakEmail",
-          "msg": "[label] doit être une adresse e-mail valide"
+          "msg": "[label] doit être une adresse électronique valide"
         },
         "3": {
           "exp": "SimpleSchema.RegEx.Domain",
