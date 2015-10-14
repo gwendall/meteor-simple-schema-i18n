@@ -28,6 +28,7 @@ Package.onUse(function (api, where) {
     "i18n/et.i18n.json",
     "i18n/fr.i18n.json",
     "i18n/he.i18n.json",
+    "i18n/hu.i18n.json",
     "i18n/id.i18n.json",
     "i18n/it.i18n.json",
     "i18n/jp.i18n.json",
