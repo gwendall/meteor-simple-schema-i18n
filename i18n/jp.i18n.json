@@ -11,8 +11,8 @@
       "minDate": "[label] は[min]以降で入力してください",
       "maxDate": "[label] は[max]以前で入力してください",
       "badDate": "[label] は日付で入力してください",
-      "minCount": "[minCount] 文字以上で指定してください",
-      "maxCount": "[maxCount] 文字以内で指定してください",
+      "minCount": "[label] は[minCount]項目以上で指定してください",
+      "maxCount": "[label] は[maxCount]項目以内で指定してください",
       "noDecimal": "[label] は整数で入力してください",
       "notAllowed": "[value] は有効ではない",
       "expectedString": "[label] は文字列で入力してください",
@@ -24,7 +24,7 @@
       "keyNotInSchema": "[key] は無効なスキーマです",
       "regEx": {
         "0": {
-          "msg": "[label] はメールアドレスで入力してください"
+          "msg": "[label] は正規表現で失敗しました"
         },
         "1": {
           "exp": "SimpleSchema.RegEx.Email",
@@ -60,7 +60,7 @@
         },
         "9": {
           "exp": "SimpleSchema.RegEx.Id",
-          "msg": "[label] は英数字のIDで入力してください"
+          "msg": "[label] は英数字で入力してください"
         }
       }
     }
