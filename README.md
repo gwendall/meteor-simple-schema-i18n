@@ -97,7 +97,7 @@ To do
 - [x] Indonesian
 - [ ] Irish
 - [x] Italian
-- [ ] Japanese
+- [x] Japanese
 - [ ] Javanese
 - [ ] Kannada
 - [ ] Kazakh
