@@ -21,6 +21,8 @@ The language code you should use to name new i18n.json files can be found in [th
 Credits
 -------
 
+[@Xiangshen-Meng](http://github.com/Xiangshen-Meng),
+[@panayi](http://github.com/panayi),
 [@daveeel](http://github.com/daveeel),
 [@nirleka](http://github.com/nirleka),
 [@uzumaxy](http://github.com/uzumaxy),
@@ -86,7 +88,7 @@ To do
 - [ ] Galician
 - [ ] Georgian
 - [x] German
-- [ ] Greek
+- [x] Greek
 - [ ] Guaraní
 - [ ] Hawaiian
 - [ ] Hazaragi
