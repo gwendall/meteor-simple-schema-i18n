@@ -22,6 +22,7 @@
       "expectedObject": "[label] must be an object",
       "expectedConstructor": "[label] must be a [type]",
       "keyNotInSchema": "[key] is not allowed by the schema",
+      "notUnique": "[label] must be unique",
       "regEx": {
         "0": {
           "msg": "[label] failed regular expression validation"

@@ -22,6 +22,7 @@
       "expectedObject": "[label]必须是一个对象",
       "expectedConstructor": "[label]必须是[type]",
       "keyNotInSchema": "[key]不符合结构规则",
+      "notUnique": "[label]必须是唯一的",
       "regEx": {
         "0": {
           "msg": "[label]正则校验失败"
