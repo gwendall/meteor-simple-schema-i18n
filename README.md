@@ -21,6 +21,7 @@ The language code you should use to name new i18n.json files can be found in [th
 Credits
 -------
 
+[@kjetilge](http://github.com/kjetilge),
 [@Xiangshen-Meng](http://github.com/Xiangshen-Meng),
 [@panayi](http://github.com/panayi),
 [@daveeel](http://github.com/daveeel),
@@ -123,7 +124,7 @@ To do
 - [ ] Mongolian
 - [ ] Montenegrin
 - [ ] Nepali
-- [ ] Norwegian (Bokmål)
+- [x] Norwegian (Bokmål)
 - [ ] Norwegian (Nynorsk)
 - [ ] Ossetic
 - [ ] Pashto
