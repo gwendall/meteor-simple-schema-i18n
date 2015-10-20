@@ -21,6 +21,7 @@ The language code you should use to name new i18n.json files can be found in [th
 Credits
 -------
 
+[@maredudd](http://github.com/maredudd),
 [@kjetilge](http://github.com/kjetilge),
 [@Xiangshen-Meng](http://github.com/Xiangshen-Meng),
 [@panayi](http://github.com/panayi),
@@ -179,4 +180,4 @@ To do
 - [ ] Uzbek
 - [ ] Vietnamese
 - [ ] Walloon
-- [ ] Welsh
+- [x] Welsh

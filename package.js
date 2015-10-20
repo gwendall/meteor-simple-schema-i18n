@@ -1,7 +1,7 @@
 Package.describe({
   name: 'gwendall:simple-schema-i18n',
   summary: 'Internationalization for SimpleSchema',
-  version: '0.2.0',
+  version: '0.2.1',
   git: 'https://github.com/gwendall/meteor-simple-schema-i18n.git'
 });
 
@@ -21,6 +21,7 @@ Package.onUse(function (api, where) {
     'package-tap.i18n',
     'i18n/ar.i18n.json',
     'i18n/bg.i18n.json',
+    'i18n/cy.i18n.json',
     'i18n/de.i18n.json',
     'i18n/el.i18n.json',
     'i18n/en.i18n.json',
