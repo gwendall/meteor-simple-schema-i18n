@@ -131,7 +131,7 @@ To do
 - [ ] Pashto
 - [ ] Persian
 - [ ] Persian (Afghanistan)
-- [ ] Polish
+- [x] Polish
 - [x] Portuguese (Brazil)
 - [ ] Portuguese (Portugal)
 - [ ] Punjabi
