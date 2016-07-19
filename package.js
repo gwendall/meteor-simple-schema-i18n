@@ -21,6 +21,7 @@ Package.onUse(function (api, where) {
     'package-tap.i18n',
     'i18n/ar.i18n.json',
     'i18n/bg.i18n.json',
+    'i18n/ca.i18n.json',
     'i18n/cy.i18n.json',
     'i18n/de.i18n.json',
     'i18n/el.i18n.json',
