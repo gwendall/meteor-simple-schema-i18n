@@ -5,11 +5,15 @@ Internationalization for [aldeed:simple-schema](http://github.com/aldeed/meteor-
 
 UPDATE: To get reactively translated labels, placeholders and options in your autoforms, additionally use [gwendall:autoform-i18n](http://github.com/gwendall/meteor-autoform-i18n).
 
+NOTE: This package is forked from the original [gwendall:meteor-simple-schema-i18n](https://github.com/gwendall/meteor-simple-schema-i18n) because the original author does not seem to accept any pull request. This version has Catalan and Spanish versions corrected.
+
+**I will accept PR from anybody who wants to collaborate**
+
 Installation
 ------------
 
 ``` sh
-meteor add gwendall:simple-schema-i18n
+meteor add microstudi:simple-schema-i18n
 ```
 
 Contribute
