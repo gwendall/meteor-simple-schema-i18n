@@ -49,7 +49,7 @@
         },
         "6": {
           "exp": "SimpleSchema.RegEx.IPv4",
-          "msg": "[label] mmusí být validní IPv4 adresa"
+          "msg": "[label] musí být validní IPv4 adresa"
         },
         "7": {
           "exp": "SimpleSchema.RegEx.IPv6",
