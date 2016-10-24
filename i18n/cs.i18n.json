@@ -8,7 +8,7 @@
       "maxNumber": "[label] nesmí být vice jak [max]",
       "minNumberExclusive": "[label] musí být více než [min]",
       "maxNumberExclusive": "[label] musí být méně než [max]",
-      "minDate": "[label] must be on or after [min]",
+      "minDate": "[label] musí být [min] nebo později",
       "maxDate": "[label] nemůže být po [max]",
       "badDate": "[label] není validní datum",
       "minCount": "Musíte vybrat alespoň [minCount] hodnot",
