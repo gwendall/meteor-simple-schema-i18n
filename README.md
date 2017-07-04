@@ -133,7 +133,7 @@ To do
 - [ ] Persian (Afghanistan)
 - [ ] Polish
 - [x] Portuguese (Brazil)
-- [ ] Portuguese (Portugal)
+- [x] Portuguese (Portugal)
 - [ ] Punjabi
 - [ ] Rohingya
 - [ ] Romanian
