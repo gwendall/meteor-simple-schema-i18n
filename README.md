@@ -21,6 +21,8 @@ The language code you should use to name new i18n.json files can be found in [th
 Credits
 -------
 
+[@jlourenco](http://github.com/jlourenco),
+[@cypa1](http://github.com/cypa1),
 [@maredudd](http://github.com/maredudd),
 [@kjetilge](http://github.com/kjetilge),
 [@Xiangshen-Meng](http://github.com/Xiangshen-Meng),
@@ -131,7 +133,7 @@ To do
 - [ ] Pashto
 - [ ] Persian
 - [ ] Persian (Afghanistan)
-- [ ] Polish
+- [x] Polish
 - [x] Portuguese (Brazil)
 - [x] Portuguese (Portugal)
 - [ ] Punjabi
