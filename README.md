@@ -1,3 +1,5 @@
+NOTICE: I am not actively maintaining this package anymore. If you want to help, please open an issue or contact me (gwendall.esnault@gmail.com).
+
 Meteor Simple-Schema i18n
 =========================
 
