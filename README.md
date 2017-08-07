@@ -1,21 +1,25 @@
 Meteor Simple-Schema i18n
 =========================
 
-Internationalization for [aldeed:simple-schema](http://github.com/aldeed/meteor-simple-schema) error messages, powered by [tap:i18n](https://github.com/TAPevents/tap-i18n).  
+Internationalization for [aldeed:simple-schema](http://github.com/aldeed/meteor-simple-schema) error messages, powered by [tap:i18n](https://github.com/TAPevents/tap-i18n).
 
 UPDATE: To get reactively translated labels, placeholders and options in your autoforms, additionally use [gwendall:autoform-i18n](http://github.com/gwendall/meteor-autoform-i18n).
 
-Installation  
+NOTE: This package is forked from the original [gwendall:meteor-simple-schema-i18n](https://github.com/gwendall/meteor-simple-schema-i18n) because the original author does not seem to accept any pull request. This version has Catalan and Spanish versions corrected.
+
+**I will accept PR from anybody who wants to collaborate**
+
+Installation
 ------------
 
 ``` sh
-meteor add gwendall:simple-schema-i18n
+meteor add microstudi:simple-schema-i18n
 ```
 
 Contribute
 ----------
 
-Help us building a complete i18n solution by translating simple-schema. To do so, please fork the repo and submit a pull request after adding / modifying any language file (in the /i18n folder).  
+Help us building a complete i18n solution by translating simple-schema. To do so, please fork the repo and submit a pull request after adding / modifying any language file (in the /i18n folder).
 The language code you should use to name new i18n.json files can be found in [this list](https://github.com/TAPevents/tap-i18n/blob/master/lib/plugin/etc/language_names.js).
 
 Credits
@@ -66,7 +70,7 @@ To do
 - [ ] Bosnian
 - [x] Bulgarian
 - [ ] Burmese
-- [ ] Catalan
+- [x] Catalan
 - [ ] Catalan (Balear)
 - [ ] Chinese
 - [x] Chinese (China)
