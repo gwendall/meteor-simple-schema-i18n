@@ -22,9 +22,10 @@
       "expectedObject": "[label] måste vara ett objekt",
       "expectedConstructor": "[label] måste vara av typen [type]",
       "keyNotInSchema": "[key] är inte godkänt av schemat",
+      "notUnique": "[label] måste vara unik",
       "regEx": {
         "0": {
-          "msg": "[label] misslyckades av det reguljära uttrycket vid validering"
+          "msg": "[label] misslyckades med det reguljära uttrycket vid validering"
         },
         "1": {
           "exp": "SimpleSchema.RegEx.Email",
