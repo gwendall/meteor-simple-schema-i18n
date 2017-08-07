@@ -24,7 +24,7 @@
       "keyNotInSchema": "[key] ist vom Schema nicht erlaubt",
       "regEx": {
         "0": {
-          "msg": "[label] ist durch den Regulären Ausdruck gefallen"
+          "msg": "[label] entspricht nicht dem regulären Ausdruck"
         },
         "1": {
           "exp": "SimpleSchema.RegEx.Email",
