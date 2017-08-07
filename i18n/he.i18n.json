@@ -10,7 +10,7 @@
       "maxNumberExclusive": "[label] חייב להיות פחות מ[max]",
       "minDate": "[label] חייב להיות אחרי [min]",
       "maxDate": "[label] לא יכול להיות אחרי [max]",
-      "badDate": "[label] התאריך אינו חו'י",
+      "badDate": "[label] התאריך אינו חוקי",
       "minCount": "חייבים להיות לפחות [minCount] ערכים",
       "maxCount": "אין אפשרות לבחור יותר מ[maxCount] ערכים",
       "noDecimal": "[label] חייב להיות מספר",
