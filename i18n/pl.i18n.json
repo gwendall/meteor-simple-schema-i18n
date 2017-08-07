@@ -1,0 +1,69 @@
+{
+  "simpleschema": {
+    "messages": {
+      "required": "[label] jest wymagane",
+      "minString": "[label] musi zawierać przynajmniej [min] znaków",
+      "maxString": "[label] nie może przekraczać [max] znaków",
+      "minNumber": "[label] nie może być mniejszy od [min]",
+      "maxNumber": "[label] nie może być większy od [max]",
+      "minNumberExclusive": "[label] musi być większy od [min]",
+      "maxNumberExclusive": "[label] musi być mniejszy od [max]",
+      "minDate": "[label] nie może być wcześniej niż [min]",
+      "maxDate": "[label] nie być później niż [max]",
+      "badDate": "[label] nie jest prawidłową datą",
+      "minCount": "Należy wskazać minimum [minCount] wartości",
+      "maxCount": "Liczba wybranych wartości nie może przekraczać [maxCount]",
+      "noDecimal": "[label] musi być typem całkowitym (integer)",
+      "notAllowed": "[value] nie jest dozwoloną wartością",
+      "expectedString": "[label] musi być ciągiem znaków (string)",
+      "expectedNumber": "[label] musi być liczbą (number)",
+      "expectedBoolean": "[label] musi być wartością typu boolean",
+      "expectedArray": "[label] musi być tablicą (array)",
+      "expectedObject": "[label] musi być obiektem",
+      "expectedConstructor": "[label] musi być typu [type]",
+      "keyNotInSchema": "[key] nie jest dozwolony w definicji struktury bazy danych",
+      "notUnique": "[label] musi być unikalny",
+      "regEx": {
+        "0": {
+          "msg": "[label] nie spełnia ograniczeń zdefiniowanego wyrażenia regularnego"
+        },
+        "1": {
+          "exp": "SimpleSchema.RegEx.Email",
+          "msg": "[label] musi być poprawnym adresem e-mail"
+        },
+        "2": {
+          "exp": "SimpleSchema.RegEx.WeakEmail",
+          "msg": "[label] musi być poprawnym adresem e-mail"
+        },
+        "3": {
+          "exp": "SimpleSchema.RegEx.Domain",
+          "msg": "[label] musi być poprawną domeną"
+        },
+        "4": {
+          "exp": "SimpleSchema.RegEx.WeakDomain",
+          "msg": "[label] must być poprawną domeną"
+        },
+        "5": {
+          "exp": "SimpleSchema.RegEx.IP",
+          "msg": "[label] musi być poprawnym adresem IPv4 lub IPv6"
+        },
+        "6": {
+          "exp": "SimpleSchema.RegEx.IPv4",
+          "msg": "[label] musi być poprawnym adresem IPv4"
+        },
+        "7": {
+          "exp": "SimpleSchema.RegEx.IPv6",
+          "msg": "[label] musi być poprawnym adresem IPv6"
+        },
+        "8": {
+          "exp": "SimpleSchema.RegEx.Url",
+          "msg": "[label] musi być poprawnym adresem WWW"
+        },
+        "9": {
+          "exp": "SimpleSchema.RegEx.Id",
+          "msg": "[label] musi być poprawnym alfanumerycznym ID"
+        }
+      }
+    }
+  }
+}
