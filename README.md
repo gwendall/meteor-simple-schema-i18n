@@ -21,6 +21,7 @@ The language code you should use to name new i18n.json files can be found in [th
 Credits
 -------
 
+[@microstudi](http://github.com/microstudi),
 [@StorytellerCZ](http://github.com/StorytellerCZ),
 [@jlourenco](http://github.com/jlourenco),
 [@cypa1](http://github.com/cypa1),
@@ -67,7 +68,7 @@ To do
 - [ ] Bosnian
 - [x] Bulgarian
 - [ ] Burmese
-- [ ] Catalan
+- [x] Catalan
 - [ ] Catalan (Balear)
 - [ ] Chinese
 - [x] Chinese (China)
