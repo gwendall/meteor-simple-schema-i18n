@@ -1,7 +1,11 @@
 ```diff
-- NOTE: This package is not maintained anymore.
 - If you want to help, please reach out to gwendall.esnault@gmail.com
 ```
+##Update
+
+Support Meteor 1.7
+
+
 
 Meteor Simple-Schema i18n
 =========================
