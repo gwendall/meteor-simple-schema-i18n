@@ -1,6 +1,6 @@
 if (Meteor.isClient) {
   Meteor.startup(function() {
-    Meteor.autorun(function() {
+    Tracker.autorun(function() {
       var lang = TAPi18n.getLanguage();
       var localMessages = TAPi18n.__("simpleschema.messages", { returnObjectTrees: true });
       localMessages.regEx = _.map(localMessages.regEx, function(item) {
