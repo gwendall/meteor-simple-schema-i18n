@@ -20,7 +20,7 @@
       "expectedBoolean": "Το πεδίο [label] πρέπει να είναι true ή false",
       "expectedArray": "Το πεδίο [label] πρέπει να είναι ένας πίνακας",
       "expectedObject": "Το πεδίο [label] πρέπει να είναι ένα αντικείμενο",
-      "expectedConstructor": "Το πεδίο [label] πρέπει να είναι ένα [τύπος]",
+      "expectedConstructor": "Το πεδίο [label] πρέπει να είναι ένα [type]",
       "keyNotInSchema": "Το πεδίο [key] δεν είναι επιτρεπτό",
       "regex": {
         "0": {
